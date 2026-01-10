@@ -44,33 +44,11 @@ Currently expanding my skills across the full stack and always open to learning 
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=IsabellaMurioni&show_icons=true&hide_title=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaMurioni&layout=compact" height="150"/>
-</p>
-
----
-
-### GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsabellaMurioni&theme=github-compact" />
-
----
-
 ### Currently Learning
 
-- Advanced React patterns  
+- React patterns  
 - Full stack architecture  
-- Performance optimization  
 - Clean architecture & best practices  
-
----
-
-### Spotify 🎧
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ynum6i6nupiokzqsxemvcawzs&cover_image=false&theme=default" />
 
 ---
 
