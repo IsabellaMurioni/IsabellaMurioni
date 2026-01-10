@@ -70,7 +70,7 @@ Currently expanding my skills across the full stack and always open to learning 
 
 ### Spotify 🎧
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_ID&cover_image=true&theme=default" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ynum6i6nupiokzqsxemvcawzs&cover_image=false&theme=default" />
 
 ---
 
