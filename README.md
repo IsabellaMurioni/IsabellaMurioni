@@ -4,7 +4,7 @@ Hi! I'm Isabella Murioni
 Frontend Web Developer
 ----------------------
 
-Computer Science student focused on frontend development, with solid backend fundamentals.
+Computer Engineering student focused on frontend development, with solid backend fundamentals.
 
 I enjoy building user-centered web applications, combining clean interfaces, performance, and well-structured logic.
 
