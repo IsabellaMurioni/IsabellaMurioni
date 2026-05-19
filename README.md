@@ -23,6 +23,7 @@ Currently expanding my skills across the full stack and always open to learning 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" /></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" /></a>
 </p>
+
 ---
 ### What I Focus On
 - ⚡ Building responsive and accessible interfaces  
@@ -30,12 +31,16 @@ Currently expanding my skills across the full stack and always open to learning 
 - 🔗 Frontend integration with REST APIs  
 - 🧩 Writing maintainable and scalable code  
 - 🎨 Designing interfaces in Figma based on user needs  
+
 ---
+
 ### Currently Learning
 - React patterns  
 - Full stack architecture  
-- Clean architecture & best practices  
+- Clean architecture & best practices
+  
 ---
+
 ### Socials
 <p align="left">
 <a href="https://www.github.com/IsabellaMurioni" target="_blank">
