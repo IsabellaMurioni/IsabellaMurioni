@@ -1,9 +1,14 @@
-Isabella Murioni
+Hi! I'm Isabella Murioni
+=======================
 Frontend Developer · React · TypeScript
-Computer Engineering student building user-centered web applications —
-clean interfaces, solid logic, and full-stack foundations.
-
-Tech Stack
+----------------------
+Computer Engineering student focused on frontend development, with solid backend fundamentals.
+I enjoy building user-centered web applications, combining clean interfaces, performance, and well-structured logic.
+Currently expanding my skills across the full stack and always open to learning new technologies.
+* 🌍 Based in Argentina  
+* ✉️ Contact: [isamurioni07@gmail.com](mailto:isamurioni07@gmail.com)
+---
+### Tech Stack
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" /></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /></a>
@@ -18,33 +23,25 @@ Tech Stack
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" /></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" /></a>
 </p>
-
-What I Focus On
-
-Responsive and accessible interfaces
-Translating UI designs into clean, reusable components
-Frontend integration with REST APIs
-Maintainable and scalable code
-Designing in Figma based on user needs
-
-
-Currently Learning
-
-Next.js & React patterns
-Full-stack architecture
-Clean architecture & best practices
-
-
-Find Me
+---
+### What I Focus On
+- ⚡ Building responsive and accessible interfaces  
+- 🧠 Translating UI designs into clean, reusable components  
+- 🔗 Frontend integration with REST APIs  
+- 🧩 Writing maintainable and scalable code  
+- 🎨 Designing interfaces in Figma based on user needs  
+---
+### Currently Learning
+- React patterns  
+- Full stack architecture  
+- Clean architecture & best practices  
+---
+### Socials
 <p align="left">
 <a href="https://www.github.com/IsabellaMurioni" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
-</a>
-<a href="https://www.linkedin.com/in/isabella-murioni-0060b2350" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
 </a>
 <a href="https://discord.com/users/isabelllla_24" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" />
 </a>
 </p>
-📍 Buenos Aires, AR · ✉️ isamurioni07@gmail.com
